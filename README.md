@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 
 
 
-### Hey Visitor 🖐🏻
 
+## Hello Visitor
 <!--
 
 <img src="https://media.giphy.com/media/1oErlCqmxFX54gsxrB/giphy.gif" alt="Coder GIF" width="40" height="40"> 
