@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 <img src="https://media.giphy.com/media/Veq8KumKpSCcfZ71P1/giphy.gif" alt="Coder GIF" width="23" height="23">
 
-**Yaseen549/Yaseen549** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Hidayath87/Hidayath87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Yaseen, welcome to my GitHub Repository, I'm an Android & iOS Developer, Programmer, I can also do Game Designing and Development, you can also check my profile links for more that are given below.
+I am Hidayath87, welcome to my GitHub Repository, I'm an Android Developer, Programmer, I can also do Game Designing and Development, you can also check my profile links for more that are given below.
 
 <!--<table style="border:0px;">
 	<tr>
@@ -74,19 +74,19 @@ I am Yaseen, welcome to my GitHub Repository, I'm an Android & iOS Developer, Pr
 <!--
 [<img src="https://img.shields.io/badge/-Pinterest-000000?style=social&logo=pinterest" />](https://in.pinterest.com/Yaseen95/) 
 -->
-[<img src="https://img.shields.io/badge/-Medium-000000?style=social&logo=medium" />](https://medium.com/@yaseen59)
-[<img src="https://img.shields.io/badge/-Instagram-000000?style=social&logo=instagram" />](https://www.instagram.com/syberstar_picture_studio/)
-[<img src="https://img.shields.io/badge/-Repl.it-000000?style=social&logo=repl.it" />](https://repl.it/@Yaseen59)
-[<img src="https://img.shields.io/badge/-hashnode-000000?style=social&logo=hashnode" />](https://yaseen.hashnode.dev/)
-[<img src="https://img.shields.io/badge/-dev.to-000000?style=social&logo=dev.to" />](https://dev.to/yaseen) 
+<!--[<img src="https://img.shields.io/badge/-Medium-000000?style=social&logo=medium" />](https://medium.com/@yaseen59)-->
+[<img src="https://img.shields.io/badge/-Instagram-000000?style=social&logo=instagram" />](https://www.instagram.com/falak_hunain/)
+<!--[<img src="https://img.shields.io/badge/-Repl.it-000000?style=social&logo=repl.it" />](https://repl.it/@Yaseen59)-->
+<!--[<img src="https://img.shields.io/badge/-hashnode-000000?style=social&logo=hashnode" />](https://yaseen.hashnode.dev/)
+[<img src="https://img.shields.io/badge/-dev.to-000000?style=social&logo=dev.to" />](https://dev.to/yaseen)--> 
 
-[<img src="https://img.shields.io/badge/-HackerRank-000000?style=social&logo=hackerrank" />](https://www.hackerrank.com/Yaseen59)
-[<img src="https://img.shields.io/badge/-Twitter-000000?style=social&logo=twitter" />](https://twitter.com/yaseen_sheriff) 
+<!--[<img src="https://img.shields.io/badge/-HackerRank-000000?style=social&logo=hackerrank" />](https://www.hackerrank.com/Yaseen59)-->
+<!--[<img src="https://img.shields.io/badge/-Twitter-000000?style=social&logo=twitter" />](https://twitter.com/yaseen_sheriff)--> 
 [<img src="https://img.shields.io/badge/-Dribbble-000000?style=social&logo=dribbble" />](https://dribbble.com/Yaseen59) 
 [<img src="https://img.shields.io/badge/-Behance-000000?style=social&logo=behance" />](https://www.behance.net/yaseen59)
 [<img src="https://img.shields.io/badge/-Discord-000000?style=social&logo=discord" />](https://discord.gg/68KtaDrfqr)
 [<img src="https://img.shields.io/badge/-StackOverflow-000000?style=social&logo=stackoverflow" />](https://stackoverflow.com/users/12053270/)
-[<img src="https://img.shields.io/badge/-Reddit-000000?style=social&logo=reddit" />](https://www.reddit.com/user/Yaseen549)
+<!--[<img src="https://img.shields.io/badge/-Reddit-000000?style=social&logo=reddit" />](https://www.reddit.com/user/Yaseen549)-->
 [<img src="https://img.shields.io/badge/-patreon-000000?style=social&logo=patreon" />](https://www.patreon.com/user) <sup><img src="https://ugcnet.nta.nic.in/webinfo/Content/img/newicon.gif"></sup>
 
 
@@ -127,9 +127,10 @@ I am Yaseen, welcome to my GitHub Repository, I'm an Android & iOS Developer, Pr
 
 
 ### My Portfolio- 
-
+<!--
 [<img src="https://img.shields.io/badge/-My_Website-000000?style=social&logo=google"/>](https://yaseen.netlify.com)
 [<img src="https://github.com/Yaseen549/Yaseen549/blob/main/live.gif" alt="Coder GIF" width="23" height="23">](https://yaseen.netlify.com)
+-->
 
 ### Frameworks, Stack and Libraries
 
@@ -229,8 +230,9 @@ Social Engagement
 
 
 ### 🧡 Support:
-
+<!--
 <a href="https://www.buymeacoffee.com/Yaseen" target="_blank" rel="nofollow"> <img align="left" src="https://camo.githubusercontent.com/28aae05a0fba45679e8e27d90609601e249b64a5fe30dfef05495de4f4e318d4/68747470733a2f2f63646e2e6275796d6561636f666665652e636f6d2f627574746f6e732f76322f64656661756c742d79656c6c6f772e706e67" height="50" width="210" alt="harikanani" data-canonical-src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" style="max-width:100%;"></a>
+-->
 
 <!--[![PayPal](https://img.icons8.com/color/48/000000/paypal.png)](https://paypal.me/yaseen59)
 <img src="Razorpay_logo.svg" height="65px" width="85px">(https://paypal.me/yaseen59)
