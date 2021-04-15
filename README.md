@@ -1,30 +1,6 @@
-### Hi there 👋
-
-
-**Hidayath87/Hidayath87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif"/>
 
-
-
-
-
-
-
-
-
-## Hello Visitor
+## Hello Visitor👋
 <!--
 
 <img src="https://media.giphy.com/media/1oErlCqmxFX54gsxrB/giphy.gif" alt="Coder GIF" width="40" height="40"> 
@@ -74,26 +50,26 @@ I am Hidayath87, welcome to my GitHub Repository, I'm an Android Developer, Prog
 <!--
 [<img src="https://img.shields.io/badge/-Pinterest-000000?style=social&logo=pinterest" />](https://in.pinterest.com/Yaseen95/) 
 -->
-<!--[<img src="https://img.shields.io/badge/-Medium-000000?style=social&logo=medium" />](https://medium.com/@yaseen59)-->
+<!-- [<img src="https://img.shields.io/badge/-Medium-000000?style=social&logo=medium" />](https://medium.com/@yaseen59) -->
 [<img src="https://img.shields.io/badge/-Instagram-000000?style=social&logo=instagram" />](https://www.instagram.com/falak_hunain/)
-<!--[<img src="https://img.shields.io/badge/-Repl.it-000000?style=social&logo=repl.it" />](https://repl.it/@Yaseen59)-->
-<!--[<img src="https://img.shields.io/badge/-hashnode-000000?style=social&logo=hashnode" />](https://yaseen.hashnode.dev/)
-[<img src="https://img.shields.io/badge/-dev.to-000000?style=social&logo=dev.to" />](https://dev.to/yaseen)--> 
+<!-- [<img src="https://img.shields.io/badge/-Repl.it-000000?style=social&logo=repl.it" />](https://repl.it/@Yaseen59) -->
+<!-- [<img src="https://img.shields.io/badge/-hashnode-000000?style=social&logo=hashnode" />](https://yaseen.hashnode.dev/)
+[<img src="https://img.shields.io/badge/-dev.to-000000?style=social&logo=dev.to" />](https://dev.to/yaseen) --> 
 
-<!--[<img src="https://img.shields.io/badge/-HackerRank-000000?style=social&logo=hackerrank" />](https://www.hackerrank.com/Yaseen59)-->
-<!--[<img src="https://img.shields.io/badge/-Twitter-000000?style=social&logo=twitter" />](https://twitter.com/yaseen_sheriff)--> 
+<!-- [<img src="https://img.shields.io/badge/-HackerRank-000000?style=social&logo=hackerrank" />](https://www.hackerrank.com/Yaseen59) -->
+<!-- [<img src="https://img.shields.io/badge/-Twitter-000000?style=social&logo=twitter" />](https://twitter.com/yaseen_sheriff) --> 
 [<img src="https://img.shields.io/badge/-Dribbble-000000?style=social&logo=dribbble" />](https://dribbble.com/Yaseen59) 
 [<img src="https://img.shields.io/badge/-Behance-000000?style=social&logo=behance" />](https://www.behance.net/yaseen59)
 [<img src="https://img.shields.io/badge/-Discord-000000?style=social&logo=discord" />](https://discord.gg/68KtaDrfqr)
 [<img src="https://img.shields.io/badge/-StackOverflow-000000?style=social&logo=stackoverflow" />](https://stackoverflow.com/users/12053270/)
-<!--[<img src="https://img.shields.io/badge/-Reddit-000000?style=social&logo=reddit" />](https://www.reddit.com/user/Yaseen549)-->
+<!-- [<img src="https://img.shields.io/badge/-Reddit-000000?style=social&logo=reddit" />](https://www.reddit.com/user/Yaseen549) -->
 [<img src="https://img.shields.io/badge/-patreon-000000?style=social&logo=patreon" />](https://www.patreon.com/user) <sup><img src="https://ugcnet.nta.nic.in/webinfo/Content/img/newicon.gif"></sup>
 
 
 
 
 
-<!--[![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/pkKsNfJT) -->
+<!-- [![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/pkKsNfJT) -->
 
 
 <!-- ![Linkedin](https://img.shields.io/badge/-LinkedIn-000000?style=social&logo=linkedin)
@@ -200,7 +176,7 @@ I am Hidayath87, welcome to my GitHub Repository, I'm an Android Developer, Prog
 <img src="https://img.icons8.com/color/48/000000/old-vmware-logo.png"/> <img src="https://img.icons8.com/color/48/000000/virtualbox.png"/>
 
 
-### Finally
+<!-- ### Finally
 
 <table>
 	<tr>
@@ -211,7 +187,7 @@ I am Hidayath87, welcome to my GitHub Repository, I'm an Android Developer, Prog
 	      		<img src="https://media.giphy.com/media/i0EYHNbxPMeSWznjSH/giphy.gif" alt="Coder GIF" width="150" height="100"><img src="https://media.giphy.com/media/fkTFkvYVz5dmg/giphy.gif" alt="Coder GIF" width="100" height="100">
 		</td>
 	</tr>
-</table>
+</table> -->
 
 <!-- <img src="https://media.giphy.com/media/2WUkAVDzuQbUA/giphy.gif" alt="Coder GIF" width="150" height="100"> -->
 
@@ -229,11 +205,10 @@ Social Engagement
 --->
 
 
-### 🧡 Support:
-<!--
+<!-- ### 🧡 Support: 
 <a href="https://www.buymeacoffee.com/Yaseen" target="_blank" rel="nofollow"> <img align="left" src="https://camo.githubusercontent.com/28aae05a0fba45679e8e27d90609601e249b64a5fe30dfef05495de4f4e318d4/68747470733a2f2f63646e2e6275796d6561636f666665652e636f6d2f627574746f6e732f76322f64656661756c742d79656c6c6f772e706e67" height="50" width="210" alt="harikanani" data-canonical-src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" style="max-width:100%;"></a>
 -->
 
-<!--[![PayPal](https://img.icons8.com/color/48/000000/paypal.png)](https://paypal.me/yaseen59)
+<!-- [![PayPal](https://img.icons8.com/color/48/000000/paypal.png)](https://paypal.me/yaseen59)
 <img src="Razorpay_logo.svg" height="65px" width="85px">(https://paypal.me/yaseen59)
 -->
